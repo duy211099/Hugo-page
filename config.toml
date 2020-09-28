@@ -14,12 +14,12 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+#  homeTitle = "Bài lab" # Set a different text for the header on the home page
+   subtitle = ""
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2 - January - 2006"
   commit = false
   rss = true
   comments = true
@@ -45,9 +45,9 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  github = "username"
+  name = "Duy Phạm"
+  email = "1710156@dlu.edu.vn"
+  github = "duypham2110"
 
 [[menu.main]]
     name = "Blog"

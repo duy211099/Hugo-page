@@ -1,9 +1,9 @@
 [author]
-    by = "by"
+    by = "bởi"
 
 [article]
-    read_more = "Read more"
-    back_to_home = "Back to home"
+    read_more = "Đọc thêm"
+    back_to_home = "Trang chủ"
     posted_on = "Posted on"
     tagged_in = "Tagged in"
 
