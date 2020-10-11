@@ -1,6 +1,7 @@
 ---
 title: "DNS là gì"
 date: 2020-09-28T11:10:10+07:00
+tags: ["Phát triển ứng dụng web"]
 ---
 
 # Định nghĩa DNS
@@ -33,9 +34,9 @@ Tên miền quốc gia (nội địa) do Trung tâm quản lý tên miền của
 Để thiết lập địa chỉ của máy phân giải tên miền. Một  cái chính và một cái dự phòng.
 
 # 8. Trong cạc mạng, không điền thông tin trong DNS server, có truy cập được trang web không? chứng minh?
-![cau8](/img/lab1/cau8.png)
-![cau8](/img/lab1/cau8b.png)
-![cau8](/img/lab1/cau8c.png)
+![cau8](/img/ptudw/lab1/cau8.png)
+![cau8](/img/ptudw/lab1/cau8b.png)
+![cau8](/img/ptudw/lab1/cau8c.png)
 
 # 9. “8.8.8.8” là gì?
 Là DNS Server Address của Google
@@ -47,5 +48,5 @@ Là DNS Server Address của Google
 1. Trình duyệt thông dịch (biên dịch) mã nguồn của trang web (HTML, CSS, JavaScript) để hiển thị lên màn hình.
 
 # 11. Thử cấu hình DNS server: sửa tập tin hosts để khi người dùng truy cập trang tuoitre.vn, nội dung trình duyệt sẽ hiển thị thông báo lỗi “không thể truy cập được trang tuoitre.vn”
-![cau11](/img/lab1/cau11.png)
-![cau11](/img/lab1/cau11b.png)
+![cau11](/img/ptudw/lab1/cau11.png)
+![cau11](/img/ptudw/lab1/cau11b.png)
