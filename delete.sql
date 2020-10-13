@@ -1,0 +1,3 @@
+DELETE FROM SinhVien WHERE MSSV='001';
+
+SELECT * FROM SinhVien;
